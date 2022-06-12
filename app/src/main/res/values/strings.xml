@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Coding Challenge</string>
+    <string name="distance">%1$d miles away</string>
+    <string name="start_date">Shift starts: %1$s </string>
+    <string name="end_date">Shift ends: %1$s </string>
+    <string name="details">Shift details</string>
 </resources>
